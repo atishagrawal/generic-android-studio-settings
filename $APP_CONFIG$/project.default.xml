@@ -1,0 +1,15 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GitSharedSettings">
+        <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+          <list />
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="vcs.Git" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -20,7 +20,6 @@
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="UserSentimentPanelPositive" value="false" />
-        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
   </component>

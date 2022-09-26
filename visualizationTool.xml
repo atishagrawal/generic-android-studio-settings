@@ -55,6 +55,15 @@
                         <option name="theme" value="AppTheme" />
                         <option name="uiMode" value="NORMAL" />
                       </CustomConfigurationAttribute>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="32" />
+                        <option name="deviceId" value="Mi K20 Pro" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="AppTheme" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
                     </list>
                   </option>
                 </CustomConfigurationSet>
